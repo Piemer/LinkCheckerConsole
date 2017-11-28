@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CheckLinks", "CheckLinks\CheckLinks.csproj", "{400980F1-218F-43EE-A7F5-2B6EE45663D4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CheckLinksTest", "..\CheckLinksTest\CheckLinksTest\CheckLinksTest.csproj", "{0375F171-8C79-41F4-B1A4-1D394A0314C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{400980F1-218F-43EE-A7F5-2B6EE45663D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{400980F1-218F-43EE-A7F5-2B6EE45663D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{400980F1-218F-43EE-A7F5-2B6EE45663D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{400980F1-218F-43EE-A7F5-2B6EE45663D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0375F171-8C79-41F4-B1A4-1D394A0314C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0375F171-8C79-41F4-B1A4-1D394A0314C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0375F171-8C79-41F4-B1A4-1D394A0314C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0375F171-8C79-41F4-B1A4-1D394A0314C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F443163C-630E-4229-B81B-02DA54EB9C05}
+	EndGlobalSection
+EndGlobal
